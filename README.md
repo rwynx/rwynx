@@ -5,10 +5,10 @@
     <td width=50%>
       
 <div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/155/15531.gif" width="475"/>
+  <img src="https://giffiles.alphacoders.com/155/15531.gif" width="450"/>
 </div>
       
-![](https://komarev.com/ghpvc/?username=rwynx&color=90b302&label=DAMN+ANOTHER+VISITOR?+BRUH+SINCE+WHEN+IM+SO+POPULAR+LMAOOOO&style=for-the-badge)   
+![](https://komarev.com/ghpvc/?username=rwynx&color=90b302&label=DAMN+ANOTHER+VISITOR?+SINCE+WHEN+IM+SO+POPULAR+LMAOOOO&style=for-the-badge)   
     </td>
     <td width=50%>
       <a href="https://github-readme-stats.vercel.app/">
