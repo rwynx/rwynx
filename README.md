@@ -5,7 +5,7 @@
     <td width=50%>
       
 <div id="header" align="center">
-  <img src="https://giffiles.alphacoders.com/155/15531.gif" width="450"/>
+  <img src="https://giffiles.alphacoders.com/155/15531.gif" width="425"/>
 </div>
       
 ![](https://komarev.com/ghpvc/?username=rwynx&color=90b302&label=DAMN+ANOTHER+VISITOR?+SINCE+WHEN+IM+SO+POPULAR+LMAOOOO&style=for-the-badge)   
