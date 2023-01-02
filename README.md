@@ -13,7 +13,7 @@
     <td width=50%>
       <a href="https://github-readme-stats.vercel.app/">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwynx&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rwynx&repo=rwynx.github.io&theme=merko)]([https://github.com/rwynx](https://github.com/rwynx/rwynx.github.io))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rwynx&repo=rwynx.github.i o&theme=merko)]([https://github.com/rwynx](https://github.com/rwynx/rwynx.github.io))
       </a>
     </td>
   </tr>
