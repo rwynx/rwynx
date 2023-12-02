@@ -8,7 +8,7 @@
   <img src="https://giffiles.alphacoders.com/155/15531.gif" width="425"/>
 </div>
       
-![](https://komarev.com/ghpvc/?username=rwynx&color=90b302&label=HUH?+THERE+IS+“LITERALLY”+NOTHING+TO+SEE+HERE+DUDE&style=for-the-badge)   
+![](https://komarev.com/ghpvc/?username=rwynx&color=90b302&label=UHh+THIS+IS+GETTING+REALLY+BORING+ARE+WE+THERE+YET?&style=for-the-badge)   
     </td>
     <td width=50%>
       <a href="https://github-readme-stats.vercel.app/">
