@@ -1,5 +1,4 @@
-### Hey there! I'm currently not working on anything except some Source 2 maps.
-### So if you need anything, don't hesitate to ask 👻
+#### Hey there! I'm currently not working on anything except some Source 2 maps: *de_hellcats, as_nexus, cs_westworld* <br>  If you need anything, don't hesitate to ask 👍🏻
 
 <table>
   <tr>
