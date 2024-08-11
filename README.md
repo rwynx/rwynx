@@ -1,4 +1,5 @@
-### Hey there! I'm currently not working on anything except some Source 2 maps. So if you need anything, don't hesitate to ask 👻
+### Hey there! I'm currently not working on anything except some Source 2 maps.
+### So if you need anything, don't hesitate to ask 👻
 
 <table>
   <tr>
