@@ -1,4 +1,4 @@
-#### Hey there! :octocat:	I'm currently focused on my Source 2 maps: *de_hellcats, as_nexus, cs_westworld.* <br><br> :electron:	UPDATES on my stuff:
+#### Hey there! :octocat:	I'm currently focused on my Source 2 maps: *de_hellcats, as_nexus, cs_westworld.* <br><br> :electron:	UPDATES on my stuff (Last updated on 8/11/24):
 * **Fallout 4 Photo Mode Rework:** Unfortunately I can't give an exact ETA for it as I am the sole modder who is working on it at the moment. <br>
 * **Cyberpunk 2077 Asset Recycler:** Same goes for the C77AR. *It's somewhat ready but still needs testing.*<br>
 * **Maps:** Both de_hellcats and as_nexus won't be released before December 2024.
