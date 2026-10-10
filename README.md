@@ -1,7 +1,10 @@
-#### Hey there! :octocat:	I'm currently focused on my Source 2 maps: *de_hellcats, as_nexus, cs_westworld.* <br><br> :electron:	UPDATES on my stuff (Last updated on 8/11/24):
-* **Fallout 4 Photo Mode Rework:** Unfortunately I can't give an exact ETA for it as I am the sole modder who is working on it at the moment. <br>
-* **C77 Asset Recycler:** Same goes for the C77AR. *It's somewhat ready but still needs testing.*<br>
-* **Maps:** Both de_hellcats and as_nexus won't be released before December 2024.
+#### Hey there! :octocat: I moved the update log to: **[rwyn.ch](https://rwyn.ch)**
+![FO4 Photo Mode Rework](https://img.shields.io/badge/FO4%20Photo%20Mode-Suspended-red?style=for-the-badge)
+![C77 Asset Recycler](https://img.shields.io/badge/C77%20Asset%20Recycler-Suspended-red?style=for-the-badge)
+![de_hellcats & as_nexus](https://img.shields.io/badge/de__hellcats%20&%20as__nexus-Suspended-red?style=for-the-badge)
+
+
+**Cyberpunk 77 Asset Recycler** and both **de_hellcats** and **as_nexus** all suspended for a while.<br> Fallout 4 Photo Mode Rework is also fully abandoned. I just don't have time to work on them.<br> I still get messages about FO4 Photo Mode rework but someone already made one: **[powerofthree's Photo Mode](https://www.nexusmods.com/fallout4/mods/88106)**, use this instead.<br><br> Instead I finished **[RWX Baker](https://github.com/rwynx/RWX-Baker)**, a fan re-creation of the in-game messaging app "Baker" from **Arknights: Endfield.**<br>I'd be happy if you give it a try, let me know if something is not working or if you have new ideas.
 
 <table>
   <tr>
